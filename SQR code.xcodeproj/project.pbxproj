@@ -51,22 +51,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		09E1771015CA857A003B5291 /* QR code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "QR code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09E1771015CA857A003B5291 /* SQR code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SQR code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		09E1771415CA857A003B5291 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		09E1771615CA857A003B5291 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		09E1771815CA857A003B5291 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		09E1771C15CA857A003B5291 /* QR code-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QR code-Info.plist"; sourceTree = "<group>"; };
+		09E1771C15CA857A003B5291 /* SQR code-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SQR code-Info.plist"; sourceTree = "<group>"; };
 		09E1771E15CA857A003B5291 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		09E1772015CA857A003B5291 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		09E1772215CA857A003B5291 /* QR code-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QR code-Prefix.pch"; sourceTree = "<group>"; };
+		09E1772215CA857A003B5291 /* SQR code-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SQR code-Prefix.pch"; sourceTree = "<group>"; };
 		09E1772315CA857A003B5291 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		09E1772415CA857A003B5291 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		09E1772615CA857A003B5291 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		09E1772715CA857A003B5291 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		09E1772A15CA857A003B5291 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		09E1773115CA857A003B5291 /* QR codeTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "QR codeTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09E1773115CA857A003B5291 /* SQR codeTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SQR codeTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		09E1773215CA857A003B5291 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		09E1773A15CA857A003B5291 /* QR codeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QR codeTests-Info.plist"; sourceTree = "<group>"; };
+		09E1773A15CA857A003B5291 /* SQR codeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SQR codeTests-Info.plist"; sourceTree = "<group>"; };
 		09E1773C15CA857A003B5291 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		09E1773E15CA857A003B5291 /* QR_codeTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QR_codeTests.h; sourceTree = "<group>"; };
 		09E1773F15CA857A003B5291 /* QR_codeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QR_codeTests.m; sourceTree = "<group>"; };
@@ -163,8 +163,8 @@
 		09E1771115CA857A003B5291 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				09E1771015CA857A003B5291 /* QR code.app */,
-				09E1773115CA857A003B5291 /* QR codeTests.octest */,
+				09E1771015CA857A003B5291 /* SQR code.app */,
+				09E1773115CA857A003B5291 /* SQR codeTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -201,10 +201,10 @@
 		09E1771B15CA857A003B5291 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				09E1771C15CA857A003B5291 /* QR code-Info.plist */,
+				09E1771C15CA857A003B5291 /* SQR code-Info.plist */,
 				09E1771D15CA857A003B5291 /* InfoPlist.strings */,
 				09E1772015CA857A003B5291 /* main.m */,
-				09E1772215CA857A003B5291 /* QR code-Prefix.pch */,
+				09E1772215CA857A003B5291 /* SQR code-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -222,7 +222,7 @@
 		09E1773915CA857A003B5291 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				09E1773A15CA857A003B5291 /* QR codeTests-Info.plist */,
+				09E1773A15CA857A003B5291 /* SQR codeTests-Info.plist */,
 				09E1773B15CA857A003B5291 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -320,9 +320,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		09E1770F15CA857A003B5291 /* QR code */ = {
+		09E1770F15CA857A003B5291 /* SQR code */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 09E1774315CA857A003B5291 /* Build configuration list for PBXNativeTarget "QR code" */;
+			buildConfigurationList = 09E1774315CA857A003B5291 /* Build configuration list for PBXNativeTarget "SQR code" */;
 			buildPhases = (
 				09E1770C15CA857A003B5291 /* Sources */,
 				09E1770D15CA857A003B5291 /* Frameworks */,
@@ -332,14 +332,14 @@
 			);
 			dependencies = (
 			);
-			name = "QR code";
+			name = "SQR code";
 			productName = "QR code";
-			productReference = 09E1771015CA857A003B5291 /* QR code.app */;
+			productReference = 09E1771015CA857A003B5291 /* SQR code.app */;
 			productType = "com.apple.product-type.application";
 		};
-		09E1773015CA857A003B5291 /* QR codeTests */ = {
+		09E1773015CA857A003B5291 /* SQR codeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 09E1774615CA857A003B5291 /* Build configuration list for PBXNativeTarget "QR codeTests" */;
+			buildConfigurationList = 09E1774615CA857A003B5291 /* Build configuration list for PBXNativeTarget "SQR codeTests" */;
 			buildPhases = (
 				09E1772C15CA857A003B5291 /* Sources */,
 				09E1772D15CA857A003B5291 /* Frameworks */,
@@ -351,9 +351,9 @@
 			dependencies = (
 				09E1773715CA857A003B5291 /* PBXTargetDependency */,
 			);
-			name = "QR codeTests";
+			name = "SQR codeTests";
 			productName = "QR codeTests";
-			productReference = 09E1773115CA857A003B5291 /* QR codeTests.octest */;
+			productReference = 09E1773115CA857A003B5291 /* SQR codeTests.octest */;
 			productType = "com.apple.product-type.bundle.ocunit-test";
 		};
 /* End PBXNativeTarget section */
@@ -365,7 +365,7 @@
 				LastUpgradeCheck = 0440;
 				ORGANIZATIONNAME = "斌";
 			};
-			buildConfigurationList = 09E1770A15CA857A003B5291 /* Build configuration list for PBXProject "QR code" */;
+			buildConfigurationList = 09E1770A15CA857A003B5291 /* Build configuration list for PBXProject "SQR code" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -377,8 +377,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				09E1770F15CA857A003B5291 /* QR code */,
-				09E1773015CA857A003B5291 /* QR codeTests */,
+				09E1770F15CA857A003B5291 /* SQR code */,
+				09E1773015CA857A003B5291 /* SQR codeTests */,
 			);
 		};
 /* End PBXProject section */
@@ -455,7 +455,7 @@
 /* Begin PBXTargetDependency section */
 		09E1773715CA857A003B5291 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 09E1770F15CA857A003B5291 /* QR code */;
+			target = 09E1770F15CA857A003B5291 /* SQR code */;
 			targetProxy = 09E1773615CA857A003B5291 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -539,14 +539,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "QR code/QR code-Prefix.pch";
-				INFOPLIST_FILE = "QR code/QR code-Info.plist";
+				GCC_PREFIX_HEADER = "QR code/SQR code-Prefix.pch";
+				INFOPLIST_FILE = "QR code/SQR code-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/QR code/ZBarSDK\"",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SQR code";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -555,14 +555,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "QR code/QR code-Prefix.pch";
-				INFOPLIST_FILE = "QR code/QR code-Info.plist";
+				GCC_PREFIX_HEADER = "QR code/SQR code-Prefix.pch";
+				INFOPLIST_FILE = "QR code/SQR code-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/QR code/ZBarSDK\"",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SQR code";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -577,8 +577,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QR code/QR code-Prefix.pch";
-				INFOPLIST_FILE = "QR codeTests/QR codeTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "QR codeTests/SQR codeTests-Info.plist";
+				PRODUCT_NAME = "SQR codeTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -594,8 +594,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QR code/QR code-Prefix.pch";
-				INFOPLIST_FILE = "QR codeTests/QR codeTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "QR codeTests/SQR codeTests-Info.plist";
+				PRODUCT_NAME = "SQR codeTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -604,7 +604,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		09E1770A15CA857A003B5291 /* Build configuration list for PBXProject "QR code" */ = {
+		09E1770A15CA857A003B5291 /* Build configuration list for PBXProject "SQR code" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				09E1774115CA857A003B5291 /* Debug */,
@@ -613,7 +613,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		09E1774315CA857A003B5291 /* Build configuration list for PBXNativeTarget "QR code" */ = {
+		09E1774315CA857A003B5291 /* Build configuration list for PBXNativeTarget "SQR code" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				09E1774415CA857A003B5291 /* Debug */,
@@ -622,7 +622,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		09E1774615CA857A003B5291 /* Build configuration list for PBXNativeTarget "QR codeTests" */ = {
+		09E1774615CA857A003B5291 /* Build configuration list for PBXNativeTarget "SQR codeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				09E1774715CA857A003B5291 /* Debug */,
